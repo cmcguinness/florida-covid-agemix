@@ -10,3 +10,5 @@ The chart generated is written out to the subdirectory images and is time and (i
 
 Nb: the code quality isn't that great -- it's mostly been a scramble to work on this in my limited spare time, so working is "good enough".  I hope that these programs have no use very soon.
 
+Charles McGuinness @SocialSeerCom on Twitter
+
